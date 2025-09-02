@@ -1,31 +1,37 @@
-# Metodologias de Desenvolvimento de Software (Scrum)
+# Metodologias de Desenvolvimento de Software
 
-Este repositório apresenta os principais conceitos que ensino sobre **metodologias ágeis**, com foco no **Scrum**.
+Este repositório apresenta os conceitos que ensino sobre **metodologias de desenvolvimento de software**, incluindo práticas de **levantamento de requisitos** e **Scrum**.
 
 ---
 
 ## Foco da disciplina
-- Apresentar os modelos tradicionais e ágeis de desenvolvimento de software.
-- Desenvolver a prática de trabalho colaborativo em equipes ágeis.
+- Introduzir modelos de desenvolvimento de software tradicionais e ágeis.
+- Ensinar técnicas de levantamento e análise de requisitos.
 - Aplicar o Scrum em projetos reais de desenvolvimento.
 
 ---
 
-##  Tópicos abordados
-- Diferença entre metodologias tradicionais (Cascata) e ágeis
+## Tópicos abordados
+### Levantamento de Requisitos
+- Requisitos funcionais e não funcionais
+- Técnicas de coleta (entrevistas, questionários, observação)
+- Modelagem de requisitos (casos de uso, user stories)
+- Priorização de requisitos
+
+### Metodologias e Scrum
+- Modelos tradicionais (Cascata, RUP)
 - Fundamentos do Manifesto Ágil
 - Framework Scrum: papéis, eventos e artefatos
 - Planejamento de sprints e backlog
 - Métricas ágeis (burndown chart, velocity)
-- Integração do Scrum com práticas de DevOps
 
 ---
 
 ## Competências desenvolvidas
+- Identificação e documentação de requisitos de software.
+- Capacidade de organizar e priorizar demandas de projeto.
 - Trabalho em equipe utilizando metodologias ágeis.
-- Capacidade de organizar tarefas e priorizar demandas.
-- Experiência prática na aplicação do **Scrum** em projetos de software.
 
 ---
 
-⭐ Este espaço descreve minha atuação docente na área de **Metodologias Ágeis de Desenvolvimento**.
+⭐ Este espaço descreve minha atuação docente na área de **Metodologias de Desenvolvimento de Software**.
